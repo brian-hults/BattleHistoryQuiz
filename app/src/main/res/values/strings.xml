@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Battle History Quiz</string>
+
+    // String for Quiz Title
+    <string name="quiz_title_text">Military History Facts</string>
+
+    // String for Quiz Instructions
+    <string name="quiz_sub_title">Instructions: Answer the following questions and click Submit at the bottom for results.</string>
+
+    // Text for Question 1
+    <string name="question_1">1. What battle directly led to the independence of the USA in the American Revolutionary War?</string>
+    <string name="q1_hint">Enter Text: The Battle of ...</string>
+    <string name="q1_answer">The Battle of Yorktown</string>
+
+    // Text for Question 2
+    <string name="question_2">2. Which country fought against Germany in the Battle of Verdun in World War I?</string>
+    <string name="q2_a1">England</string>
+    <string name="q2_a2">France</string>
+    <string name="q2_a3">United States</string>
+    <string name="q2_a4">Austria</string>
+
+    // Text for Question 3
+    <string name="question_3">3. Which country famously defeated the Spanish Armada in 1588?</string>
+    <string name="q3_a1">France</string>
+    <string name="q3_a2">Germany</string>
+    <string name="q3_a3">England</string>
+    <string name="q3_a4">Norway</string>
+
+    // Text for Question 4
+    <string name="question_4">4. Which places were attacked by Japan on December 7th, 1941? (Hint: there are multiple answers)</string>
+    <string name="q4_a1">Hong Kong, China</string>
+    <string name="q4_a2">Melbourne, Australia</string>
+    <string name="q4_a3">The Philippines</string>
+    <string name="q4_a4">Pearl Harbor, Hawaii</string>
+
+    // Text for Question 5
+    <string name="question_5">5. What was the first significant battle of the American Civil War?</string>
+    <string name="q5_hint">Enter Text: The Battle of ...</string>
+    <string name="q5_answer">The Battle of Fort Sumter</string>
+
+    // Text for Question 6
+    <string name="question_6">6. Which battle is famous for Hannibal defeating a Roman army?</string>
+    <string name="q6_a1">The Battle of Cannae</string>
+    <string name="q6_a2">The Battle of Carthage</string>
+    <string name="q6_a3">The Battle of Heraclea</string>
+    <string name="q6_a4">The Battle of Teutoburg Forest</string>
+
+    // Text for Question 7
+    <string name="question_7">7. After which battle in World War II did the Soviet Union stop the Nazi advance into Russia?</string>
+    <string name="q7_a1">The Siege of Leningrad</string>
+    <string name="q7_a2">The Battle of Kiev</string>
+    <string name="q7_a3">The Battle of Berlin</string>
+    <string name="q7_a4">The Battle of Stalingrad</string>
+
+    // Submit Answers Button
+    <string name="submit_button">Submit</string>
+</resources>
